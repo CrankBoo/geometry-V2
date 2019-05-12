@@ -1,0 +1,8 @@
+
+{
+    "BasedOnStyle": "WebKit",
+    
+    "BraceWrapping":{
+    
+    },
+}
